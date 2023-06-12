@@ -1,14 +1,19 @@
 const express = require('express');
-const fs = require ('fs');
-const path = require ('path')
+require('dotenv').config(); // Load environment variables from .env file
+
 const app = express();
+const port = process.env.PORT || 3000; // Use port from .env or default to 3000
 
-app.use(express.json()):
-app.use(express.static('public'));
-
-app.get('/api/users', (req, res) => {
-  // Handle POST request for creating a new user
+// Define routes
+app.get('/', (req, res) => {
+  res.send('Hello, World!');
 });
 
-const port = process.env.PORT || 3000;
-const apikey = process.env.API_KEY;
+app.get('/about', (req, res) => {
+  res.send('About page');
+});
+
+// Start the server
+app.listen(port, () => {
+  console.log(`Server running on port ${port}`)
+});
