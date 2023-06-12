@@ -9,8 +9,8 @@ To use this template, follow these steps:
 ### Prerequisites
 
 - Node.js and npm should be installed on your machine. You can download them from the official Node.js website: [https://nodejs.org]
-- Install Express - `npm install express`
-- Install dotenv - `npm install dotenv`
+- express - `npm install express`
+- dotenv - `npm install dotenv`
 
 ### Installation
 
