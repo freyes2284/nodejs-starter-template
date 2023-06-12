@@ -11,6 +11,7 @@ To use this template, follow these steps:
 - Node.js and npm should be installed on your machine. You can download them from the official Node.js website: [https://nodejs.org]
 - Install Express - `npm install express`
 - Install dotenv - `npm install dotenv`
+- winston (logging) - `npm install winston`
 
 ### Installation
 
@@ -18,7 +19,6 @@ To use this template, follow these steps:
 2. Open a terminal and navigate to the project directory
 
 ### Directory Structure
-
 
 `src/: Contains the main source code of the application, inclduing the entry point`
 
@@ -39,7 +39,6 @@ To use this template, follow these steps:
 `package.json: The file that lists project dependencies,s cripts, and other metadata about the project.`
 
 `README.md`:` A file that contains information about the project, its, purpose and instructions for setting it upt or running it.`
-
 
 ### Contributing
 
