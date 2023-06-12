@@ -24,7 +24,7 @@ To use this template, follow these steps:
 
 `routes/: Contains the route handlers or controllers responsible for handling different API endpoints or routes`
 
-`models/: Holds the data models ro schema that defines the structure of the data being used in the applications`
+`models/: Holds the data models or schema that defines the structure of the data being used in the applications`
 
 `controllers/: Contains the the controllers that handle the business logic, processing requests from the routes and interacting with models.`
 
