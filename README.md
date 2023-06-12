@@ -1,6 +1,6 @@
 # Node JS template
 
-This Template is a basic Node template that can serve as a startin point fo your Node.js porjects. It provides structure and includes some common components to help you get started quickly.
+This Template is a basic Node template that can serve as a starting point fo your Node.js porjects. It provides structure and includes some common components to help you get started quickly.
 
 ## Getting Started
 
