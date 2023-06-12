@@ -9,14 +9,9 @@ To use this template, follow these steps:
 ### Prerequisites
 
 - Node.js and npm should be installed on your machine. You can download them from the official Node.js website: [https://nodejs.org]
-<<<<<<< HEAD
-- Install Express - `npm install express`
-- Install dotenv - `npm install dotenv`
 - winston (logging) - `npm install winston`
-=======
 - express - `npm install express`
 - dotenv - `npm install dotenv`
->>>>>>> d9db443b716d22943dc419c7c407dea76e25cc00
 
 ### Installation
 
